@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/astabergs/travisHeroku/169250398.png)](https://travis-ci.org/astabergs/travisHeroku/169250398)
+
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
