@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/astabergs/travisHeroku/.png)](https://travis-ci.org/astabergs/travisHeroku/)
+[![Build Status](https://travis-ci.org/astabergs/travisHeroku.png)](https://travis-ci.org/astabergs/travisHeroku)
 
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
