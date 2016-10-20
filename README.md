@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/astabergs/travisHeroku/169250398.png)](https://travis-ci.org/astabergs/travisHeroku/169250398)
+[![Build Status](https://travis-ci.org/astabergs/travisHeroku/.png)](https://travis-ci.org/astabergs/travisHeroku/)
 
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
@@ -9,7 +9,7 @@ Sample program used to show students Gradle in action. Based on [Jón Ingi's Hel
 - **build.gradle** (The gradle build file that we use)
 - **gradle** (Folder containing the gradle wrapper)
 - **gradlew** (Linux/Unix script to run the gradle wrapper)
-- **gradlew.bat** (Windows script to run the gradle wrapper)
+- **gradlew.bat** (Windgitows script to run the gradle wrapper)
 - **settings.gradle** (Settings file for gradle, not used in our example, can for example contain definitions if we have multiple projects)
 - **src** (Source folder for our code)
 
